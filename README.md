@@ -1,7 +1,5 @@
 ### :wave: dtrudg
 
-Hello, I'm David (or Dave) Trudgian. I'm an experienced software engineer with a Ph.D. in Computer Science, living in the UK. My studies and career have spanned machine learning, bioinformatics, and high performance computing (HPC).
+Hello, I'm David (or Dave) Trudgian. I'm a software engineer with a Ph.D. in Computer Science, and 15+ years experience across academia and industry in both the UK and USA. My career has spanned machine learning, bioinformatics, high performance computing, container runtimes, and confidential computing. I enjoy developing pragmatic solutions to difficult problems, and working with a diverse range of collaborators and customers, especially in scientific and technical fields.
 
-I currently work for [Sylabs](https://sylabs.io) where I am maintainer of the SingularityCE open source container runtime, and oversee SingularityPRO - a commercial long-term supported version.
-
-I use this GitHub account for work related code and collaborations only. My personal stuff is elsewhere, and under different usernames. Note that I do not check GitHub notifications outside of working hours / workdays. It might take me a little while for me to get back to you if I'm on holiday.
+I currently work for [Sylabs](https://sylabs.io) where I am maintainer of the [SingularityCE](https://github.com/sylabs/singularity) open source container runtime, and oversee [SingularityPRO](https://sylabs.io/singularity-pro/) - a commercial long-term supported version.
